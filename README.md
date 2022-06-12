@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamsCode
 - 👀 I’m interested in Mechanical Engineering.
-- 🌱 I’m currently learning about github.
+- 🌱 I’m currently dreaming, building and collaborating.
 - 💞️ I’m looking to collaborate on projects that address social and environmental issues.
 - 📫 How to reach me: use a stepladder...
 
